@@ -1,0 +1,55 @@
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\Tienda Rodrigo.csproj.AssemblyReference.cache
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\App.g.cs
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\Tienda Rodrigo_MarkupCompile.cache
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\MainWindow.g.cs
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\Tienda Rodrigo_MarkupCompile.lref
+C:\Users\danir\source\repos\Tienda Rodrigo\bin\Debug\Tienda Rodrigo.exe.config
+C:\Users\danir\source\repos\Tienda Rodrigo\bin\Debug\Tienda Rodrigo.exe
+C:\Users\danir\source\repos\Tienda Rodrigo\bin\Debug\Tienda Rodrigo.pdb
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\MainWindow.baml
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\Tienda Rodrigo.g.resources
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\Tienda_Rodrigo.Properties.Resources.resources
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\Tienda Rodrigo.csproj.GenerateResource.cache
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\Tienda Rodrigo.csproj.CoreCompileInputs.cache
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\Tienda Rodrigo.exe
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\Tienda Rodrigo.pdb
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\Views\Usuarios.g.cs
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\Views\Usuarios.baml
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\Views\CRUDUsuarios.g.cs
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\Views\CRUDUsuarios.baml
+C:\Users\danir\source\repos\Tienda Rodrigo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\danir\source\repos\Tienda Rodrigo\bin\Debug\MySqlConnector.dll
+C:\Users\danir\source\repos\Tienda Rodrigo\bin\Debug\System.Buffers.dll
+C:\Users\danir\source\repos\Tienda Rodrigo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\danir\source\repos\Tienda Rodrigo\bin\Debug\System.Memory.dll
+C:\Users\danir\source\repos\Tienda Rodrigo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\danir\source\repos\Tienda Rodrigo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\danir\source\repos\Tienda Rodrigo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\danir\source\repos\Tienda Rodrigo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\danir\source\repos\Tienda Rodrigo\bin\Debug\MySqlConnector.xml
+C:\Users\danir\source\repos\Tienda Rodrigo\bin\Debug\System.Buffers.xml
+C:\Users\danir\source\repos\Tienda Rodrigo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\danir\source\repos\Tienda Rodrigo\bin\Debug\System.Memory.xml
+C:\Users\danir\source\repos\Tienda Rodrigo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\danir\source\repos\Tienda Rodrigo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\danir\source\repos\Tienda Rodrigo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\Tienda Rodrigo.csproj.CopyComplete
+C:\Users\danir\source\repos\Tienda Rodrigo\bin\Debug\System.Drawing.Common.dll
+C:\Users\danir\source\repos\Tienda Rodrigo\bin\Debug\System.Drawing.Common.pdb
+C:\Users\danir\source\repos\Tienda Rodrigo\bin\Debug\System.Drawing.Common.xml
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\Views\CRUDProductos.g.cs
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\Views\Productos.g.cs
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\Views\CRUDProductos.baml
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\Views\Productos.baml
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\Views\AcercaDe.g.cs
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\Views\Dashboard.g.cs
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\Views\POS.g.cs
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\Views\AcercaDe.baml
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\Views\Dashboard.baml
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\Views\POS.baml
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\Views\MiCuenta.g.cs
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\Views\MiCuenta.baml
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\SCS\Themes\Pinkl.baml
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\Views\LogIn.g.cs
+C:\Users\danir\source\repos\Tienda Rodrigo\obj\Debug\Views\LogIn.baml

@@ -1,0 +1,73 @@
+﻿<Window x:Class="Tienda_Rodrigo.Views.AcercaDe"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tienda_Rodrigo.Views"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Background="Transparent"
+        MouseDown="Cerrar"
+        Cursor="Hand"
+        FontSize="15"
+        Title="AcercaDe" Height="300" Width="450">
+    <Border CornerRadius="10"
+            BorderThickness="5"
+            Opacity=".95"
+            Background="Pink">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="20"/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="20"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="20"/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition Height="20"/>
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="1"
+                       Grid.Column="1"
+                       Grid.ColumnSpan="4"
+                       Text="Tienda Rodrigo"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       FontSize="40"
+                       FontWeight="ExtraBold"/>
+            <Image Grid.Column="3"
+                   Grid.Row="4"
+                   Grid.ColumnSpan="2"
+                   Height="60"
+                   HorizontalAlignment="Right"
+                   VerticalAlignment="Bottom"
+                   Source="/SCS/IMG/sitf.png"/>
+            <TextBlock Grid.Row="2"
+                       Grid.Column="1"
+                       Grid.ColumnSpan="4"
+                       FontSize="10"
+                       Margin="10"
+                       HorizontalAlignment="Center"
+                       Text="Creado por Daniel Rodrigo"/>
+            <Image Grid.Column="1"
+                   Grid.Row="3"
+                   Source="/SCS/IMG/instagram.png"/>
+            <Image Grid.Column="2"
+                   Grid.Row="3"
+                   Source="/SCS/IMG/github.png"/>
+            <Image Grid.Column="3"
+                   Grid.Row="3"
+                   Source="/SCS/IMG/facebook.png"/>
+            <Image Grid.Column="4"
+                   Grid.Row="3"
+                   Source="/SCS/IMG/youtube.png"/>
+        </Grid>
+    </Border>
+</Window>
